@@ -1,5 +1,5 @@
 ## Hi 👋 I am Taha Ahmed
-# Flutter Applications Developer 
+Flutter Applications Developer 
 
 
 
@@ -7,4 +7,4 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: www.linkedin.com/in/taha-ahmed-ict
 - ⚡ Fun fact: Life is not funny without programming memes 
--->
+
